@@ -1,0 +1,14 @@
+ssh.txt
+Created Thu Jul 18 08:53:08 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+ssh — OpenSSH SSH client (remote login program)
+
+
+ssh (SSH client) is a program for logging into a remote machine and for
+executing commands on a remote machine.  It is intended to provide secure
+encrypted communications between two untrusted hosts over an insecure
+network.  X11 connections, arbitrary TCP ports and UNIX-domain sockets
+can also be forwarded over the secure channel.
+--man, BSD General Commands Manual

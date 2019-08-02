@@ -4,3 +4,22 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 ssh related links
+
+
+Links
+=====
+SSH: Execute Remote Command or Script – Linux
+Posted on Tuesday December 27th, 2016by admin
+ShellHacks, Linux Hacks and Guides
+Good stuff:
+  $ ssh USER@HOST 'COMMAND'
+  $ ssh root@192.168.1.1 'uptime'
+  $ ssh root@192.168.1.1 'reboot'
+  $ ssh USER@HOST 'COMMAND1; COMMAND2; COMMAND3'
+  $ ssh USER@HOST 'COMMAND1 | COMMAND2 | COMMAND3'
+  $ ssh USER@HOST << EOF
+  COMMAND1
+  COMMAND2
+  COMMAND3
+  EOF
+https://www.shellhacks.com/ssh-execute-remote-command-script-linux/

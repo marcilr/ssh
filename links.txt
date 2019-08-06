@@ -12,3 +12,19 @@ Installation of OpenSSH For Windows Server 2019 and Windows 10
 01/06/2019
 Has solid Windows 10 openssh installation links
 https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
+
+SSH: Execute Remote Command or Script – Linux
+Posted on Tuesday December 27th, 2016by admin
+ShellHacks, Linux Hacks and Guides
+Good stuff:
+  $ ssh USER@HOST 'COMMAND'
+  $ ssh root@192.168.1.1 'uptime'
+  $ ssh root@192.168.1.1 'reboot'
+  $ ssh USER@HOST 'COMMAND1; COMMAND2; COMMAND3'
+  $ ssh USER@HOST 'COMMAND1 | COMMAND2 | COMMAND3'
+  $ ssh USER@HOST << EOF
+  COMMAND1
+  COMMAND2
+  COMMAND3
+  EOF
+https://www.shellhacks.com/ssh-execute-remote-command-script-linux/

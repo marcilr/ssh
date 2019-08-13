@@ -8,6 +8,11 @@ ssh related links
 
 Links
 =====
+How to automate SSH login with password?
+Command-line argument (least secure):
+sshpass -p my_secret_password ssh user@host
+https://serverfault.com/questions/241588/how-to-automate-ssh-login-with-password
+
 Installation of OpenSSH For Windows Server 2019 and Windows 10
 01/06/2019
 Has solid Windows 10 openssh installation links

@@ -22,6 +22,10 @@ Installation of OpenSSH For Windows Server 2019 and Windows 10
 Has solid Windows 10 openssh installation links
 https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
 
+LINUX FU: INTERACTIVE SSH APPLICATIONS
+by: Al Williams, Spetember 6, 2019
+https://hackaday.com/2019/09/06/linux-fu-interactive-ssh-applications/
+
 SSH: Execute Remote Command or Script – Linux
 Posted on Tuesday December 27th, 2016by admin
 ShellHacks, Linux Hacks and Guides

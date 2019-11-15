@@ -30,6 +30,11 @@ LINUX FU: INTERACTIVE SSH APPLICATIONS
 by: Al Williams, Spetember 6, 2019
 https://hackaday.com/2019/09/06/linux-fu-interactive-ssh-applications/
 
+Set up your first SSH keys
+How to use SSH keys for authentication
+by Janne Ruostemaa
+https://upcloud.com/community/tutorials/use-ssh-keys-authentication/
+
 SSH: Execute Remote Command or Script – Linux
 Posted on Tuesday December 27th, 2016by admin
 ShellHacks, Linux Hacks and Guides

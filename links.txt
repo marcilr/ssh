@@ -8,6 +8,10 @@ ssh related links
 
 Links
 =====
+ssh-keygen Tutorial – Generating RSA and DSA keys
+Guy Rutenberg
+https://www.guyrutenberg.com/2007/10/05/ssh-keygen-tutorial-generating-rsa-and-dsa-keys/
+
 How to automate SSH login with password?
 Command-line argument (least secure):
 sshpass -p my_secret_password ssh user@host

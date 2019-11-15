@@ -1,0 +1,8 @@
+#.gitignore
+# Created Fri 15 Nov 2019 01:31:24 PM AKST
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+docs/

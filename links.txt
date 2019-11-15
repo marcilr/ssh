@@ -8,10 +8,6 @@ ssh related links
 
 Links
 =====
-ssh-keygen Tutorial – Generating RSA and DSA keys
-Guy Rutenberg
-https://www.guyrutenberg.com/2007/10/05/ssh-keygen-tutorial-generating-rsa-and-dsa-keys/
-
 How do I get the RSA bit length with the pubkey and openssl?
 This is hard and involved.
 https://security.stackexchange.com/questions/42268/how-do-i-get-the-rsa-bit-length-with-the-pubkey-and-openssl
@@ -49,3 +45,8 @@ Good stuff:
   COMMAND3
   EOF
 https://www.shellhacks.com/ssh-execute-remote-command-script-linux/
+
+ssh-keygen Tutorial – Generating RSA and DSA keys
+Guy Rutenberg
+https://www.guyrutenberg.com/2007/10/05/ssh-keygen-tutorial-generating-rsa-and-dsa-keys/
+

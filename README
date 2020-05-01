@@ -14,5 +14,8 @@ docs/
 links.txt
   ssh related links
 
+logs.txt
+  linode logs
+
 ssh.txt
   ssh — OpenSSH SSH client (remote login program)

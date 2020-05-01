@@ -1,0 +1,33 @@
+logs.txt
+Created Thu 30 Apr 2020 05:25:15 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Inspecting linode ssh logins shows:
+
+
+$ ssh linode
+Linux rockhounding 5.4.10-x86_64-linode132 #1 SMP PREEMPT Thu Jan 9 21:17:12 UTC 2020 x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+You have new mail.
+Last login: Fri May  1 01:24:49 2020 from 66.223.212.22
+Can't open display 
+$ 
+
+$ tail -f /var/log/auth.log
+...
+May  1 01:24:49 rockhounding sshd[23919]: Accepted publickey for marcilr \
+from 66.223.212.22 port 54348 ssh2: RSA SHA256:/***
+May  1 01:24:49 rockhounding sshd[23919]: pam_unix(sshd:session): session opened for user marcilr by (uid=0)
+May  1 01:24:49 rockhounding systemd-logind[643]: New session 7943 of user marcilr.
+...
+
+From this home debian workstation ip address is getting assigned as:
+  66.223.212.22
+
